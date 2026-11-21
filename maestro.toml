@@ -1,0 +1,14 @@
+[project]
+name = "maestro"
+description = "File-based project context for AI coding tools"
+session_visibility = "gitignored"
+
+[user]
+name = "Oscar Rangel"
+
+[git]
+commit = "task"
+push = "never"
+branch = "milestone"
+pr = "markdown"
+merge = "never"
